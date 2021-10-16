@@ -1,6 +1,5 @@
 #!name=去广告合集
 #!desc=我们的目标是没有广告
-#!system=ios
 
 [General]
 force-http-engine-hosts = %APPEND% 122.14.246.33, 175.102.178.52, mobile-api2011.elong.com
